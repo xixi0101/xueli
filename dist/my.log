@@ -372,3 +372,339 @@ Session ID: ad9116bc-e0a0-403b-9923-1c3a739d30d1
 [INFO ] 2017-12-02 21:59:32,109 com.webtest.util.Log - firefox
 [INFO ] 2017-12-02 21:59:45,601 com.webtest.util.Log - Opened url http://localhost:8032/zl_shop/index.php/Login/login
 [INFO ] 2017-12-02 22:00:11,882 com.webtest.util.Log - Quitted Browser
+[INFO ] 2017-12-15 20:06:45,194 com.webtest.util.Log - Using Firefox
+[INFO ] 2017-12-15 20:06:45,227 com.webtest.util.Log - firefox
+[INFO ] 2017-12-15 20:07:00,221 com.webtest.util.Log - Opened url http://localhost:8032/zl_shop/index.php/Login/login
+[INFO ] 2017-12-15 20:07:05,527 com.webtest.util.Log - org.openqa.selenium.WebDriverException: Failed to decode response from marionette
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-4FV6CFN', ip: '192.168.157.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\ۭ�\AppData\Local\Temp\rust_mozprofile.cxLK1GkPEyFW, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=3944, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 09844060-bbe2-498c-8344-e6e55237ddd0
+*** Element info: {Using=name, value=username}
+[INFO ] 2017-12-15 20:07:05,534 com.webtest.util.Log - org.openqa.selenium.SessionNotCreatedException: Tried to run command without establishing a connection
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-4FV6CFN', ip: '192.168.157.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\ۭ�\AppData\Local\Temp\rust_mozprofile.cxLK1GkPEyFW, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=3944, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 09844060-bbe2-498c-8344-e6e55237ddd0
+*** Element info: {Using=name, value=password}
+[INFO ] 2017-12-15 20:07:08,552 com.webtest.util.Log - org.openqa.selenium.SessionNotCreatedException: Tried to run command without establishing a connection
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-4FV6CFN', ip: '192.168.157.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\ۭ�\AppData\Local\Temp\rust_mozprofile.cxLK1GkPEyFW, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=3944, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 09844060-bbe2-498c-8344-e6e55237ddd0
+*** Element info: {Using=xpath, value=//input[@type='submit']}
+[INFO ] 2017-12-15 20:07:16,579 com.webtest.util.Log - Opened url http://localhost:8032/zl_shop/index.php/Login/login
+[INFO ] 2017-12-15 20:07:21,595 com.webtest.util.Log - org.openqa.selenium.SessionNotCreatedException: Tried to run command without establishing a connection
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-4FV6CFN', ip: '192.168.157.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\ۭ�\AppData\Local\Temp\rust_mozprofile.cxLK1GkPEyFW, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=3944, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 09844060-bbe2-498c-8344-e6e55237ddd0
+*** Element info: {Using=name, value=username}
+[INFO ] 2017-12-15 20:07:21,612 com.webtest.util.Log - org.openqa.selenium.SessionNotCreatedException: Tried to run command without establishing a connection
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-4FV6CFN', ip: '192.168.157.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\ۭ�\AppData\Local\Temp\rust_mozprofile.cxLK1GkPEyFW, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=3944, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 09844060-bbe2-498c-8344-e6e55237ddd0
+*** Element info: {Using=name, value=password}
+[INFO ] 2017-12-15 20:07:24,630 com.webtest.util.Log - org.openqa.selenium.SessionNotCreatedException: Tried to run command without establishing a connection
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-4FV6CFN', ip: '192.168.157.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\ۭ�\AppData\Local\Temp\rust_mozprofile.cxLK1GkPEyFW, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=3944, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 09844060-bbe2-498c-8344-e6e55237ddd0
+*** Element info: {Using=xpath, value=//input[@type='submit']}
+[INFO ] 2017-12-15 20:07:32,660 com.webtest.util.Log - Opened url http://localhost:8032/zl_shop/index.php/Login/login
+[INFO ] 2017-12-15 20:07:37,671 com.webtest.util.Log - org.openqa.selenium.SessionNotCreatedException: Tried to run command without establishing a connection
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-4FV6CFN', ip: '192.168.157.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\ۭ�\AppData\Local\Temp\rust_mozprofile.cxLK1GkPEyFW, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=3944, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 09844060-bbe2-498c-8344-e6e55237ddd0
+*** Element info: {Using=name, value=username}
+[INFO ] 2017-12-15 20:07:37,683 com.webtest.util.Log - org.openqa.selenium.SessionNotCreatedException: Tried to run command without establishing a connection
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-4FV6CFN', ip: '192.168.157.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\ۭ�\AppData\Local\Temp\rust_mozprofile.cxLK1GkPEyFW, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=3944, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 09844060-bbe2-498c-8344-e6e55237ddd0
+*** Element info: {Using=name, value=password}
+[INFO ] 2017-12-15 20:07:40,701 com.webtest.util.Log - org.openqa.selenium.SessionNotCreatedException: Tried to run command without establishing a connection
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-4FV6CFN', ip: '192.168.157.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\ۭ�\AppData\Local\Temp\rust_mozprofile.cxLK1GkPEyFW, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=3944, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 09844060-bbe2-498c-8344-e6e55237ddd0
+*** Element info: {Using=xpath, value=//input[@type='submit']}
+[INFO ] 2017-12-15 20:07:48,725 com.webtest.util.Log - Opened url http://localhost:8032/zl_shop/index.php/Login/login
+[INFO ] 2017-12-15 20:07:53,740 com.webtest.util.Log - org.openqa.selenium.SessionNotCreatedException: Tried to run command without establishing a connection
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-4FV6CFN', ip: '192.168.157.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\ۭ�\AppData\Local\Temp\rust_mozprofile.cxLK1GkPEyFW, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=3944, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 09844060-bbe2-498c-8344-e6e55237ddd0
+*** Element info: {Using=name, value=username}
+[INFO ] 2017-12-15 20:07:53,756 com.webtest.util.Log - org.openqa.selenium.SessionNotCreatedException: Tried to run command without establishing a connection
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-4FV6CFN', ip: '192.168.157.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\ۭ�\AppData\Local\Temp\rust_mozprofile.cxLK1GkPEyFW, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=3944, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 09844060-bbe2-498c-8344-e6e55237ddd0
+*** Element info: {Using=name, value=password}
+[INFO ] 2017-12-15 20:07:56,772 com.webtest.util.Log - org.openqa.selenium.SessionNotCreatedException: Tried to run command without establishing a connection
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-4FV6CFN', ip: '192.168.157.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\ۭ�\AppData\Local\Temp\rust_mozprofile.cxLK1GkPEyFW, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=3944, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 09844060-bbe2-498c-8344-e6e55237ddd0
+*** Element info: {Using=xpath, value=//input[@type='submit']}
+[INFO ] 2017-12-15 20:08:04,790 com.webtest.util.Log - Opened url http://localhost:8032/zl_shop/index.php/Login/login
+[INFO ] 2017-12-15 20:08:09,807 com.webtest.util.Log - org.openqa.selenium.SessionNotCreatedException: Tried to run command without establishing a connection
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-4FV6CFN', ip: '192.168.157.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\ۭ�\AppData\Local\Temp\rust_mozprofile.cxLK1GkPEyFW, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=3944, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 09844060-bbe2-498c-8344-e6e55237ddd0
+*** Element info: {Using=name, value=username}
+[INFO ] 2017-12-15 20:08:09,826 com.webtest.util.Log - org.openqa.selenium.SessionNotCreatedException: Tried to run command without establishing a connection
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-4FV6CFN', ip: '192.168.157.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\ۭ�\AppData\Local\Temp\rust_mozprofile.cxLK1GkPEyFW, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=3944, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 09844060-bbe2-498c-8344-e6e55237ddd0
+*** Element info: {Using=name, value=password}
+[INFO ] 2017-12-15 20:08:12,851 com.webtest.util.Log - org.openqa.selenium.SessionNotCreatedException: Tried to run command without establishing a connection
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-4FV6CFN', ip: '192.168.157.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\ۭ�\AppData\Local\Temp\rust_mozprofile.cxLK1GkPEyFW, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=3944, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 09844060-bbe2-498c-8344-e6e55237ddd0
+*** Element info: {Using=xpath, value=//input[@type='submit']}
+[INFO ] 2017-12-15 20:20:28,572 com.webtest.util.Log - Using Firefox
+[INFO ] 2017-12-15 20:20:28,602 com.webtest.util.Log - firefox
+[INFO ] 2017-12-15 20:20:43,087 com.webtest.util.Log - Opened url http://localhost:8032/zl_shop/index.php/Login/login
+[INFO ] 2017-12-15 20:21:06,587 com.webtest.util.Log - Opened url http://localhost:8032/zl_shop/index.php/Login/login
+[INFO ] 2017-12-15 20:21:30,646 com.webtest.util.Log - Opened url http://localhost:8032/zl_shop/index.php/Login/login
+[INFO ] 2017-12-15 20:21:53,577 com.webtest.util.Log - Opened url http://localhost:8032/zl_shop/index.php/Login/login
+[INFO ] 2017-12-15 20:22:16,973 com.webtest.util.Log - Opened url http://localhost:8032/zl_shop/index.php/Login/login
+[INFO ] 2017-12-15 20:35:56,752 com.webtest.util.Log - Quitted Browser
+[INFO ] 2017-12-16 21:12:09,345 com.webtest.util.Log - Using Firefox
+[INFO ] 2017-12-16 21:12:09,347 com.webtest.util.Log - Using Firefox
+[INFO ] 2017-12-16 21:12:10,001 com.webtest.util.Log - firefox
+[INFO ] 2017-12-16 21:12:10,001 com.webtest.util.Log - firefox
+[INFO ] 2017-12-16 21:12:29,945 com.webtest.util.Log - Opened url http://localhost:8032/zl_shop/index.php/Login/login
+[INFO ] 2017-12-16 21:12:29,951 com.webtest.util.Log - Opened url http://localhost:8032/zl_shop/index.php/Login/login
+[INFO ] 2017-12-16 21:12:52,211 com.webtest.util.Log - Opened url http://localhost:8032/zl_shop/index.php/Login/login
+[INFO ] 2017-12-16 21:12:55,162 com.webtest.util.Log - Opened url http://localhost:8032/zl_shop/index.php/Login/login
+[INFO ] 2017-12-16 21:12:57,226 com.webtest.util.Log - org.openqa.selenium.SessionNotCreatedException: Tried to run command without establishing a connection
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-4FV6CFN', ip: '192.168.157.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\ۭ�\AppData\Local\Temp\rust_mozprofile.Mbd2MYmGjdIY, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=11324, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 6e8cc66b-909d-494c-bc30-14eb2d876646
+*** Element info: {Using=name, value=username}
+[INFO ] 2017-12-16 21:12:57,242 com.webtest.util.Log - org.openqa.selenium.SessionNotCreatedException: Tried to run command without establishing a connection
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-4FV6CFN', ip: '192.168.157.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\ۭ�\AppData\Local\Temp\rust_mozprofile.Mbd2MYmGjdIY, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=11324, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 6e8cc66b-909d-494c-bc30-14eb2d876646
+*** Element info: {Using=name, value=password}
+[INFO ] 2017-12-16 21:13:00,256 com.webtest.util.Log - org.openqa.selenium.SessionNotCreatedException: Tried to run command without establishing a connection
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-4FV6CFN', ip: '192.168.157.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\ۭ�\AppData\Local\Temp\rust_mozprofile.Mbd2MYmGjdIY, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=11324, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 6e8cc66b-909d-494c-bc30-14eb2d876646
+*** Element info: {Using=xpath, value=//input[@type='submit']}
+[INFO ] 2017-12-16 21:13:08,275 com.webtest.util.Log - Opened url http://localhost:8032/zl_shop/index.php/Login/login
+[INFO ] 2017-12-16 21:13:13,291 com.webtest.util.Log - org.openqa.selenium.SessionNotCreatedException: Tried to run command without establishing a connection
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-4FV6CFN', ip: '192.168.157.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\ۭ�\AppData\Local\Temp\rust_mozprofile.Mbd2MYmGjdIY, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=11324, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 6e8cc66b-909d-494c-bc30-14eb2d876646
+*** Element info: {Using=name, value=username}
+[INFO ] 2017-12-16 21:13:13,306 com.webtest.util.Log - org.openqa.selenium.SessionNotCreatedException: Tried to run command without establishing a connection
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-4FV6CFN', ip: '192.168.157.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\ۭ�\AppData\Local\Temp\rust_mozprofile.Mbd2MYmGjdIY, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=11324, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 6e8cc66b-909d-494c-bc30-14eb2d876646
+*** Element info: {Using=name, value=password}
+[INFO ] 2017-12-16 21:13:16,319 com.webtest.util.Log - org.openqa.selenium.SessionNotCreatedException: Tried to run command without establishing a connection
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-4FV6CFN', ip: '192.168.157.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\ۭ�\AppData\Local\Temp\rust_mozprofile.Mbd2MYmGjdIY, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=11324, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 6e8cc66b-909d-494c-bc30-14eb2d876646
+*** Element info: {Using=xpath, value=//input[@type='submit']}
+[INFO ] 2017-12-16 21:13:18,122 com.webtest.util.Log - Opened url http://localhost:8032/zl_shop/index.php/Login/login
+[INFO ] 2017-12-16 21:13:24,339 com.webtest.util.Log - Opened url http://localhost:8032/zl_shop/index.php/Login/login
+[INFO ] 2017-12-16 21:13:29,351 com.webtest.util.Log - org.openqa.selenium.SessionNotCreatedException: Tried to run command without establishing a connection
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-4FV6CFN', ip: '192.168.157.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\ۭ�\AppData\Local\Temp\rust_mozprofile.Mbd2MYmGjdIY, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=11324, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 6e8cc66b-909d-494c-bc30-14eb2d876646
+*** Element info: {Using=name, value=username}
+[INFO ] 2017-12-16 21:13:29,366 com.webtest.util.Log - org.openqa.selenium.SessionNotCreatedException: Tried to run command without establishing a connection
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-4FV6CFN', ip: '192.168.157.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\ۭ�\AppData\Local\Temp\rust_mozprofile.Mbd2MYmGjdIY, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=11324, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 6e8cc66b-909d-494c-bc30-14eb2d876646
+*** Element info: {Using=name, value=password}
+[INFO ] 2017-12-16 21:13:32,381 com.webtest.util.Log - org.openqa.selenium.SessionNotCreatedException: Tried to run command without establishing a connection
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-4FV6CFN', ip: '192.168.157.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\ۭ�\AppData\Local\Temp\rust_mozprofile.Mbd2MYmGjdIY, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=11324, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 6e8cc66b-909d-494c-bc30-14eb2d876646
+*** Element info: {Using=xpath, value=//input[@type='submit']}
+[INFO ] 2017-12-16 21:13:40,399 com.webtest.util.Log - Opened url http://localhost:8032/zl_shop/index.php/Login/login
+[INFO ] 2017-12-16 21:13:41,061 com.webtest.util.Log - Opened url http://localhost:8032/zl_shop/index.php/Login/login
+[INFO ] 2017-12-16 21:13:45,414 com.webtest.util.Log - org.openqa.selenium.SessionNotCreatedException: Tried to run command without establishing a connection
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-4FV6CFN', ip: '192.168.157.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\ۭ�\AppData\Local\Temp\rust_mozprofile.Mbd2MYmGjdIY, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=11324, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 6e8cc66b-909d-494c-bc30-14eb2d876646
+*** Element info: {Using=name, value=username}
+[INFO ] 2017-12-16 21:13:45,430 com.webtest.util.Log - org.openqa.selenium.SessionNotCreatedException: Tried to run command without establishing a connection
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-4FV6CFN', ip: '192.168.157.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\ۭ�\AppData\Local\Temp\rust_mozprofile.Mbd2MYmGjdIY, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=11324, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 6e8cc66b-909d-494c-bc30-14eb2d876646
+*** Element info: {Using=name, value=password}
+[INFO ] 2017-12-16 21:13:48,445 com.webtest.util.Log - org.openqa.selenium.SessionNotCreatedException: Tried to run command without establishing a connection
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-4FV6CFN', ip: '192.168.157.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\ۭ�\AppData\Local\Temp\rust_mozprofile.Mbd2MYmGjdIY, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=11324, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 6e8cc66b-909d-494c-bc30-14eb2d876646
+*** Element info: {Using=xpath, value=//input[@type='submit']}
+[INFO ] 2017-12-16 21:23:30,240 com.webtest.util.Log - Using Firefox
+[INFO ] 2017-12-16 22:59:28,677 com.webtest.util.Log - Using Firefox
+[INFO ] 2017-12-16 22:59:28,951 com.webtest.util.Log - firefox
+[INFO ] 2017-12-16 22:59:43,822 com.webtest.util.Log - Opened url http://localhost:8032/zl_shop/index.php/Reg/index
+[INFO ] 2017-12-16 23:00:08,791 com.webtest.util.Log - Opened url http://localhost:8032/zl_shop/index.php/Reg/index
+[INFO ] 2017-12-16 23:00:31,747 com.webtest.util.Log - Opened url http://localhost:8032/zl_shop/index.php/Reg/index
+[INFO ] 2017-12-16 23:00:54,878 com.webtest.util.Log - Opened url http://localhost:8032/zl_shop/index.php/Reg/index
+[INFO ] 2017-12-16 23:01:17,813 com.webtest.util.Log - Opened url http://localhost:8032/zl_shop/index.php/Reg/index
+[INFO ] 2017-12-16 23:01:40,857 com.webtest.util.Log - Opened url http://localhost:8032/zl_shop/index.php/Reg/index
+[INFO ] 2017-12-16 23:02:03,835 com.webtest.util.Log - Opened url http://localhost:8032/zl_shop/index.php/Reg/index
+[INFO ] 2017-12-16 23:02:26,889 com.webtest.util.Log - Opened url http://localhost:8032/zl_shop/index.php/Reg/index
+[INFO ] 2017-12-16 23:02:49,972 com.webtest.util.Log - Opened url http://localhost:8032/zl_shop/index.php/Reg/index
+[INFO ] 2017-12-16 23:03:12,998 com.webtest.util.Log - Opened url http://localhost:8032/zl_shop/index.php/Reg/index
+[INFO ] 2017-12-16 23:03:36,014 com.webtest.util.Log - Opened url http://localhost:8032/zl_shop/index.php/Reg/index
+[INFO ] 2017-12-16 23:03:58,933 com.webtest.util.Log - Opened url http://localhost:8032/zl_shop/index.php/Reg/index
+[INFO ] 2017-12-16 23:04:21,939 com.webtest.util.Log - Opened url http://localhost:8032/zl_shop/index.php/Reg/index
+[INFO ] 2017-12-16 23:04:44,876 com.webtest.util.Log - Opened url http://localhost:8032/zl_shop/index.php/Reg/index
+[INFO ] 2017-12-16 23:05:06,119 com.webtest.util.Log - Quitted Browser
+[INFO ] 2017-12-16 23:11:57,530 com.webtest.util.Log - Using Firefox
+[INFO ] 2017-12-16 23:11:57,622 com.webtest.util.Log - firefox
+[INFO ] 2017-12-16 23:12:11,354 com.webtest.util.Log - Opened url http://localhost:8032/zl_shop/index.php/Login/login
+[INFO ] 2017-12-16 23:12:34,608 com.webtest.util.Log - Opened url http://localhost:8032/zl_shop/index.php/Login/login
+[INFO ] 2017-12-16 23:12:57,847 com.webtest.util.Log - Opened url http://localhost:8032/zl_shop/index.php/Login/login
+[INFO ] 2017-12-16 23:13:20,918 com.webtest.util.Log - Opened url http://localhost:8032/zl_shop/index.php/Login/login
+[INFO ] 2017-12-16 23:13:43,795 com.webtest.util.Log - Opened url http://localhost:8032/zl_shop/index.php/Login/login
+[INFO ] 2017-12-16 23:14:03,373 com.webtest.util.Log - Quitted Browser
+[INFO ] 2017-12-16 23:23:38,143 com.webtest.util.Log - Using Firefox
+[INFO ] 2017-12-16 23:23:39,976 com.webtest.util.Log - firefox
+[INFO ] 2017-12-16 23:23:59,987 com.webtest.util.Log - Opened url http://localhost:8032/zl_shop/index.php/Reg/index
+[INFO ] 2017-12-16 23:24:28,908 com.webtest.util.Log - Opened url http://localhost:8032/zl_shop/index.php/Reg/index
+[INFO ] 2017-12-16 23:24:53,073 com.webtest.util.Log - Opened url http://localhost:8032/zl_shop/index.php/Reg/index
+[INFO ] 2017-12-16 23:25:16,838 com.webtest.util.Log - Opened url http://localhost:8032/zl_shop/index.php/Reg/index
+[INFO ] 2017-12-16 23:25:40,161 com.webtest.util.Log - Opened url http://localhost:8032/zl_shop/index.php/Reg/index
+[INFO ] 2017-12-16 23:26:03,928 com.webtest.util.Log - Opened url http://localhost:8032/zl_shop/index.php/Reg/index
+[INFO ] 2017-12-16 23:26:27,441 com.webtest.util.Log - Opened url http://localhost:8032/zl_shop/index.php/Reg/index
+[INFO ] 2017-12-16 23:26:50,501 com.webtest.util.Log - Opened url http://localhost:8032/zl_shop/index.php/Reg/index
+[INFO ] 2017-12-16 23:27:13,581 com.webtest.util.Log - Opened url http://localhost:8032/zl_shop/index.php/Reg/index
+[INFO ] 2017-12-16 23:27:36,966 com.webtest.util.Log - Opened url http://localhost:8032/zl_shop/index.php/Reg/index
+[INFO ] 2017-12-16 23:28:02,883 com.webtest.util.Log - Opened url http://localhost:8032/zl_shop/index.php/Reg/index
+[INFO ] 2017-12-16 23:28:26,270 com.webtest.util.Log - Opened url http://localhost:8032/zl_shop/index.php/Reg/index
+[INFO ] 2017-12-16 23:28:50,732 com.webtest.util.Log - Opened url http://localhost:8032/zl_shop/index.php/Reg/index
+[INFO ] 2017-12-16 23:29:14,466 com.webtest.util.Log - Opened url http://localhost:8032/zl_shop/index.php/Reg/index
+[INFO ] 2017-12-16 23:29:41,998 com.webtest.util.Log - Quitted Browser
+[INFO ] 2017-12-17 16:26:25,959 com.webtest.util.Log - Using Firefox
+[INFO ] 2017-12-17 16:26:26,069 com.webtest.util.Log - firefox
+[INFO ] 2017-12-17 16:26:39,862 com.webtest.util.Log - Opened url http://localhost:8032/zl_shop/index.php/Login/login
+[INFO ] 2017-12-17 16:27:02,805 com.webtest.util.Log - Opened url http://localhost:8032/zl_shop/index.php/Login/login
+[INFO ] 2017-12-17 16:27:25,391 com.webtest.util.Log - Opened url http://localhost:8032/zl_shop/index.php/Login/login
+[INFO ] 2017-12-17 16:27:48,085 com.webtest.util.Log - Opened url http://localhost:8032/zl_shop/index.php/Login/login
+[INFO ] 2017-12-17 16:28:10,863 com.webtest.util.Log - Opened url http://localhost:8032/zl_shop/index.php/Login/login
+[INFO ] 2017-12-17 16:28:30,785 com.webtest.util.Log - Quitted Browser
+[INFO ] 2017-12-17 16:38:44,143 com.webtest.util.Log - Using Firefox
+[INFO ] 2017-12-17 16:38:44,362 com.webtest.util.Log - firefox
+[INFO ] 2017-12-17 16:38:57,791 com.webtest.util.Log - Opened url http://localhost:8032/zl_shop/index.php/Login/login
+[INFO ] 2017-12-17 16:39:20,365 com.webtest.util.Log - Opened url http://localhost:8032/zl_shop/index.php/Login/login
+[INFO ] 2017-12-17 16:39:43,012 com.webtest.util.Log - Opened url http://localhost:8032/zl_shop/index.php/Login/login
+[INFO ] 2017-12-17 16:40:05,563 com.webtest.util.Log - Opened url http://localhost:8032/zl_shop/index.php/Login/login
+[INFO ] 2017-12-17 16:40:28,347 com.webtest.util.Log - Opened url http://localhost:8032/zl_shop/index.php/Login/login
+[INFO ] 2017-12-17 16:40:46,990 com.webtest.util.Log - Quitted Browser
+[INFO ] 2017-12-17 16:47:21,410 com.webtest.util.Log - Using Firefox
+[INFO ] 2017-12-17 16:47:21,471 com.webtest.util.Log - firefox
+[INFO ] 2017-12-17 16:47:34,874 com.webtest.util.Log - Opened url http://localhost:8032/zl_shop/index.php/Login/login
+[INFO ] 2017-12-17 16:47:57,477 com.webtest.util.Log - Opened url http://localhost:8032/zl_shop/index.php/Login/login
+[INFO ] 2017-12-17 16:48:20,029 com.webtest.util.Log - Opened url http://localhost:8032/zl_shop/index.php/Login/login
+[INFO ] 2017-12-17 16:48:42,609 com.webtest.util.Log - Opened url http://localhost:8032/zl_shop/index.php/Login/login
+[INFO ] 2017-12-17 16:49:05,202 com.webtest.util.Log - Opened url http://localhost:8032/zl_shop/index.php/Login/login
+[INFO ] 2017-12-17 16:49:24,017 com.webtest.util.Log - Quitted Browser
+[INFO ] 2017-12-17 16:52:18,599 com.webtest.util.Log - Using Firefox
+[INFO ] 2017-12-17 16:52:18,686 com.webtest.util.Log - firefox
+[INFO ] 2017-12-17 16:52:32,099 com.webtest.util.Log - Opened url http://localhost:8032/zl_shop/index.php/Login/login
+[INFO ] 2017-12-17 16:52:54,682 com.webtest.util.Log - Opened url http://localhost:8032/zl_shop/index.php/Login/login
+[INFO ] 2017-12-17 16:53:17,182 com.webtest.util.Log - Opened url http://localhost:8032/zl_shop/index.php/Login/login
+[INFO ] 2017-12-17 16:53:39,704 com.webtest.util.Log - Opened url http://localhost:8032/zl_shop/index.php/Login/login
+[INFO ] 2017-12-17 16:54:02,332 com.webtest.util.Log - Opened url http://localhost:8032/zl_shop/index.php/Login/login
+[INFO ] 2017-12-17 16:54:21,472 com.webtest.util.Log - Quitted Browser
+[INFO ] 2017-12-17 17:04:12,369 com.webtest.util.Log - Using Firefox
+[INFO ] 2017-12-17 17:04:13,478 com.webtest.util.Log - firefox
+[INFO ] 2017-12-17 17:04:38,119 com.webtest.util.Log - Opened url http://localhost:8032/zl_shop/index.php/Reg/index
+[INFO ] 2017-12-17 17:05:01,807 com.webtest.util.Log - Opened url http://localhost:8032/zl_shop/index.php/Reg/index
+[INFO ] 2017-12-17 17:05:24,933 com.webtest.util.Log - Opened url http://localhost:8032/zl_shop/index.php/Reg/index
+[INFO ] 2017-12-17 17:05:47,768 com.webtest.util.Log - Opened url http://localhost:8032/zl_shop/index.php/Reg/index
+[INFO ] 2017-12-17 17:06:10,510 com.webtest.util.Log - Opened url http://localhost:8032/zl_shop/index.php/Reg/index
+[INFO ] 2017-12-17 17:06:33,276 com.webtest.util.Log - Opened url http://localhost:8032/zl_shop/index.php/Reg/index
+[INFO ] 2017-12-17 17:06:56,012 com.webtest.util.Log - Opened url http://localhost:8032/zl_shop/index.php/Reg/index
+[INFO ] 2017-12-17 17:07:18,824 com.webtest.util.Log - Opened url http://localhost:8032/zl_shop/index.php/Reg/index
+[INFO ] 2017-12-17 17:07:41,497 com.webtest.util.Log - Opened url http://localhost:8032/zl_shop/index.php/Reg/index
+[INFO ] 2017-12-17 17:08:04,247 com.webtest.util.Log - Opened url http://localhost:8032/zl_shop/index.php/Reg/index
+[INFO ] 2017-12-17 17:08:26,967 com.webtest.util.Log - Opened url http://localhost:8032/zl_shop/index.php/Reg/index
+[INFO ] 2017-12-17 17:08:49,640 com.webtest.util.Log - Opened url http://localhost:8032/zl_shop/index.php/Reg/index
+[INFO ] 2017-12-17 17:09:12,392 com.webtest.util.Log - Opened url http://localhost:8032/zl_shop/index.php/Reg/index
+[INFO ] 2017-12-17 17:09:35,158 com.webtest.util.Log - Opened url http://localhost:8032/zl_shop/index.php/Reg/index
+[INFO ] 2017-12-17 17:09:54,893 com.webtest.util.Log - Quitted Browser
+[INFO ] 2017-12-17 19:22:12,789 com.webtest.util.Log - Using Firefox
+[INFO ] 2017-12-17 19:22:12,888 com.webtest.util.Log - firefox
+[INFO ] 2017-12-17 19:22:26,303 com.webtest.util.Log - Opened url http://localhost:8032/zl_shop/index.php/Login/login
+[INFO ] 2017-12-17 19:22:54,203 com.webtest.util.Log - Opened url http://localhost:8032/zl_shop/index.php/Login/login
+[INFO ] 2017-12-17 19:23:21,917 com.webtest.util.Log - Opened url http://localhost:8032/zl_shop/index.php/Login/login
+[INFO ] 2017-12-17 19:23:44,641 com.webtest.util.Log - Opened url http://localhost:8032/zl_shop/index.php/Login/login
+[INFO ] 2017-12-17 19:24:12,203 com.webtest.util.Log - Opened url http://localhost:8032/zl_shop/index.php/Login/login
+[INFO ] 2017-12-17 19:24:34,848 com.webtest.util.Log - Opened url http://localhost:8032/zl_shop/index.php/Login/login
+[INFO ] 2017-12-17 19:25:02,459 com.webtest.util.Log - Opened url http://localhost:8032/zl_shop/index.php/Login/login
+[INFO ] 2017-12-17 19:25:21,299 com.webtest.util.Log - Quitted Browser
+[INFO ] 2017-12-17 19:32:30,622 com.webtest.util.Log - Using Firefox
+[INFO ] 2017-12-17 19:32:31,237 com.webtest.util.Log - firefox
+[INFO ] 2017-12-17 19:32:47,202 com.webtest.util.Log - Opened url http://localhost:8032/zl_shop/index.php/Reg/index
+[INFO ] 2017-12-17 19:33:16,018 com.webtest.util.Log - Opened url http://localhost:8032/zl_shop/index.php/Reg/index
+[INFO ] 2017-12-17 19:33:44,615 com.webtest.util.Log - Opened url http://localhost:8032/zl_shop/index.php/Reg/index
+[INFO ] 2017-12-17 19:34:12,558 com.webtest.util.Log - Opened url http://localhost:8032/zl_shop/index.php/Reg/index
+[INFO ] 2017-12-17 19:34:40,346 com.webtest.util.Log - Opened url http://localhost:8032/zl_shop/index.php/Reg/index
+[INFO ] 2017-12-17 19:35:08,275 com.webtest.util.Log - Opened url http://localhost:8032/zl_shop/index.php/Reg/index
+[INFO ] 2017-12-17 19:35:36,182 com.webtest.util.Log - Opened url http://localhost:8032/zl_shop/index.php/Reg/index
+[INFO ] 2017-12-17 19:36:04,053 com.webtest.util.Log - Opened url http://localhost:8032/zl_shop/index.php/Reg/index
+[INFO ] 2017-12-17 19:36:31,961 com.webtest.util.Log - Opened url http://localhost:8032/zl_shop/index.php/Reg/index
+[INFO ] 2017-12-17 19:36:59,657 com.webtest.util.Log - Opened url http://localhost:8032/zl_shop/index.php/Reg/index
+[INFO ] 2017-12-17 19:37:27,802 com.webtest.util.Log - Opened url http://localhost:8032/zl_shop/index.php/Reg/index
+[INFO ] 2017-12-17 19:37:55,511 com.webtest.util.Log - Opened url http://localhost:8032/zl_shop/index.php/Reg/index
+[INFO ] 2017-12-17 19:38:23,231 com.webtest.util.Log - Opened url http://localhost:8032/zl_shop/index.php/Reg/index
+[INFO ] 2017-12-17 19:38:51,006 com.webtest.util.Log - Opened url http://localhost:8032/zl_shop/index.php/Reg/index
+[INFO ] 2017-12-17 19:39:11,490 com.webtest.util.Log - Quitted Browser

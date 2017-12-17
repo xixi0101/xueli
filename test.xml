@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite" verbose="1">
+	<listeners>
+		<listener class-name="Listener.WebtestListener"/>
+	</listeners>
+  <test name="Test">
+    <classes>
+    
+    			<class name="Login2.UserLoginTest2"></class>  
+				<class name="Login2.LoginTest"></class>
+				<class name="Login1.LoginTest7"></class>
+				<class name="Login1.LoginTest8"></class>
+				<class name="Login1.LoginTest9"></class>
+				<class name="Login1.LoginTest10"></class>
+				<class name="Login1.LoginTest11"></class>
+				<class name="Login1.LoginTest12"></class>
+				<class name="Login1.LoginTest13"></class>
+				<class name="Login1.LoginTest14"></class>
+				<class name="Login1.LoginTest15"></class>
+				<class name="Login1.LoginTest16"></class>
+				<class name="Logout.LogoutTest"></class>
+				<class name="MyOrder.MyOrderTest1"></class>
+				<class name="MyOrder.MyOrderTest2"></class>
+				<class name="MyOrder.MyOrderTest3"></class>
+				<class name="PersonalInformation.PITest1"></class>
+				<class name="PersonalInformation.PITest2"></class>
+				<class name="PersonalInformation.PITest3"></class>
+				<class name="PersonalInformation.PITest4"></class>
+				<class name="PersonalInformation.PITest5"></class>
+				<class name="PersonalInformation.PITest6"></class>
+				<class name="PersonalInformation.PITest7"></class>
+				<class name="PersonalInformation.PITest8"></class>
+				<class name="Register.UserRegisterTest"></class>
+				<class name="Register.RegisterTest"></class>
+				<class name="Register.RegisterTest2"></class>
+				<class name="Register.RegisterTest3"></class>
+				<class name="Register.RegisterTest4"></class>
+				<class name="Register.RegisterTest5"></class>
+				<class name="Register.RegisterTest6"></class>
+				<class name="Register.RegisterTest7"></class>
+				<class name="Register.RegisterTest8"></class>
+				</classes> 
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

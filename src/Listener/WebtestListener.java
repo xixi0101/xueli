@@ -4,6 +4,9 @@ import org.testng.ITestContext;
 import org.testng.ITestResult;
 import org.testng.TestListenerAdapter;
 
+import Mail.SendEmail;
+
+
 public class WebtestListener extends TestListenerAdapter {
 	//Test指的是每一个测试用例
 	public void onTestFailure(ITestResult result){
@@ -21,17 +24,11 @@ public class WebtestListener extends TestListenerAdapter {
 	}
 	@Override
 	public void onFinish(ITestContext content){
-		System.out.println("用例执行完毕，发送邮件");
+		SendEmail a = new SendEmail();
+		
+			a.sendMailAttached();
+			System.out.println("用例执行完毕，发送邮件");
+		}
 	}
-//		Mail xi=new Mail();
-//		try{
-//			xi.send();
-//		}catch (Exception e){
-			//TODO Auto-generated catch block
-//			e.printStackTrace();
-//		}
-
 	
 	
-	
-}

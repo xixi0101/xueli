@@ -3,10 +3,11 @@ package Login1;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
+import org.testng.annotations.Test;
 
 public class LoginTest10 {
-
-public static void main(String[] args) throws InterruptedException{
+@Test
+public void testForget() throws InterruptedException{
 		
 		WebDriver wd = new FirefoxDriver();
 		wd.manage().window().maximize();

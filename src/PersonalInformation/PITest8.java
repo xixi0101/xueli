@@ -3,10 +3,11 @@ package PersonalInformation;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
+import org.testng.annotations.Test;
 
 public class PITest8 {
-
-public static void main(String[] args) throws InterruptedException{
+	@Test
+public void information() throws InterruptedException{
 		
 		WebDriver wd = new FirefoxDriver();
 		wd.manage().window().maximize();

@@ -1,11 +1,16 @@
 package Mail;
 
 import java.util.Properties;
+
+import javax.activation.DataHandler;
+import javax.activation.FileDataSource;
 import javax.mail.Message;
 import javax.mail.Session;
 import javax.mail.Transport;
 import javax.mail.internet.InternetAddress;
+import javax.mail.internet.MimeBodyPart;
 import javax.mail.internet.MimeMessage;
+import javax.mail.internet.MimeMultipart;
 
 
 public class SendEmail {
@@ -48,15 +53,36 @@ public class SendEmail {
 	        //创建邮件对象
 	        MimeMessage message = new MimeMessage(session);
 	        
-	        //指明邮件的发件人
-	        message.setFrom(new InternetAddress("xrj0101@163.com"));
-	        //指明邮件的收件人
-	        message.setRecipient(Message.RecipientType.TO, new InternetAddress("931534973@qq.com"));
-	        //邮件的标题
-	        message.setSubject("测试");
-	        //邮件的文本内容
-	        message.setContent("hi~", "text/html;charset=UTF-8");
-	        //返回创建好的邮件对象
-	        return message;
-	    }
+	         //设置邮件的基本信息         //发件人
+	         message.setFrom(new InternetAddress("xrj0101@163.com"));
+	         //收件人
+	         message.setRecipient(Message.RecipientType.TO , new InternetAddress("626231936@qq.com"));
+	         //标题
+	         message.setSubject("郗睿杰的测试报告");
+	         message.setText("测试报告，请老师查收~"); 
+	         //创建邮件正文，为了避免邮件正文中文乱码问题，需要使用charset=UTF-8指明字符编码
+	         MimeBodyPart text = new MimeBodyPart();
+	         text.setContent("测试报告，请老师查收~", "text/html;charset=UTF-8");        
+	         //创建邮件附件
+	         MimeBodyPart attach = new MimeBodyPart();
+	         DataHandler dh = new DataHandler(new FileDataSource("D:/workspace/xueli/test-output/result3.zip"));
+	         attach.setDataHandler(dh);
+	         attach.setFileName(dh.getName());  
+	         
+	         //创建容器描述数据关系
+	         MimeMultipart mp = new MimeMultipart();
+	         mp.addBodyPart(text);
+	         mp.addBodyPart(attach);
+	         mp.setSubType("mixed");
+	         
+	         message.setContent(mp);
+
+	         return message;
+	     }
+
+	public void sendMailAttached() {
+		// TODO Auto-generated method stub
+		
 	}
+	    }
+

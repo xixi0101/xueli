@@ -3,10 +3,11 @@ package Logout;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
+import org.testng.annotations.Test;
 
 public class LogoutTest {
-
-public static void main(String[] args) throws InterruptedException{
+@Test
+public void userquit() throws InterruptedException{
 		
 		WebDriver wd = new FirefoxDriver();
 		wd.manage().window().maximize();
